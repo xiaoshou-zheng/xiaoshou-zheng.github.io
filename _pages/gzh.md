@@ -1,10 +1,9 @@
 ---
-permalink: /gzh/
+permalink: /about/gzh/
 title: "关耳小兽观察室"
 author_profile: true
 redirect_from: 
-  - /gzh/
-  - /gzh.html
+  - /about/gzh.html
 ---
 
 扫码关注我的公众号
